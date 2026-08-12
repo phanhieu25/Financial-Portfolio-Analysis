@@ -1,6 +1,6 @@
 # Financial-Portfolio-Analysis
 Financial Data Analysis &amp; Portfolio Optimization in Python. Featuring Time Series wrangling and Train/Test out-of-sample asset allocation.
-# 📈 Financial Data Analysis & Portfolio Optimization
+# Financial Data Analysis & Portfolio Optimization
 
 ## Project Overview
 This project is designed to collect, clean, and analyze Time Series data for prominent stocks using Python. Beyond price trend analysis, the project applies **Portfolio Optimization** models based on Modern Portfolio Theory (MPT) and conducts objective strategy backtesting through a rigorous Train/Test workflow.
